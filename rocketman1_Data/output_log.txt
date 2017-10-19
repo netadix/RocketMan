@@ -1,0 +1,189 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2151 MB
+    Driver:   21.20.16.4727
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\kimsan_remote\rocketman1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\kimsan_remote\rocketman1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\kimsan_remote\rocketman1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\kimsan_remote\rocketman1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\kimsan_remote\rocketman1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\kimsan_remote\rocketman1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\kimsan_remote\rocketman1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\kimsan_remote\rocketman1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\kimsan_remote\rocketman1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\kimsan_remote\rocketman1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.089 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\kimsan_remote\rocketman1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\kimsan_remote\rocketman1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 48Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.502106 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.161755 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 480.
+Total: 1.378547 ms (FindLiveObjects: 0.135551 ms CreateObjectMapping: 0.101191 ms MarkObjects: 0.892223 ms  DeleteObjects: 0.246182 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.261920 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 736.
+Total: 3.122970 ms (FindLiveObjects: 0.180483 ms CreateObjectMapping: 0.109120 ms MarkObjects: 2.718203 ms  DeleteObjects: 0.112519 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.501230 ms
+
+Unloading 143 unused Assets to reduce memory usage. Loaded Objects now: 488.
+Total: 3.155064 ms (FindLiveObjects: 0.263928 ms CreateObjectMapping: 0.160471 ms MarkObjects: 1.414417 ms  DeleteObjects: 1.313225 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.987041 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 430.
+Total: 2.725000 ms (FindLiveObjects: 0.196719 ms CreateObjectMapping: 0.092884 ms MarkObjects: 1.644741 ms  DeleteObjects: 0.787255 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 49.300343 ms
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 2.253024 ms (FindLiveObjects: 0.710984 ms CreateObjectMapping: 0.086843 ms MarkObjects: 1.278110 ms  DeleteObjects: 0.171799 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.215432 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 430.
+Total: 0.497273 ms (FindLiveObjects: 0.050595 ms CreateObjectMapping: 0.030206 ms MarkObjects: 0.295645 ms  DeleteObjects: 0.119315 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 51.031929 ms
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 735.
+Total: 1.085544 ms (FindLiveObjects: 0.156696 ms CreateObjectMapping: 0.051728 ms MarkObjects: 0.807645 ms  DeleteObjects: 0.067964 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.982071 ms
+
+Unloading 143 unused Assets to reduce memory usage. Loaded Objects now: 488.
+Total: 3.540952 ms (FindLiveObjects: 0.256377 ms CreateObjectMapping: 0.103079 ms MarkObjects: 1.977012 ms  DeleteObjects: 1.201461 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.171346 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 430.
+Total: 2.144281 ms (FindLiveObjects: 0.195964 ms CreateObjectMapping: 0.134796 ms MarkObjects: 1.249037 ms  DeleteObjects: 0.561840 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 152.863571 ms
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 2.160139 ms (FindLiveObjects: 0.442524 ms CreateObjectMapping: 0.212955 ms MarkObjects: 1.333237 ms  DeleteObjects: 0.168401 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.377882 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 450.
+Total: 1.816918 ms (FindLiveObjects: 0.165757 ms CreateObjectMapping: 0.103834 ms MarkObjects: 1.193532 ms  DeleteObjects: 0.350394 ms)
+
+GSSA FindAsync Response:
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Network disconnected or Spread sheet problem.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 30.291794 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 494.
+Total: 2.044599 ms (FindLiveObjects: 0.172554 ms CreateObjectMapping: 0.084578 ms MarkObjects: 1.703266 ms  DeleteObjects: 0.082312 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.651251 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 453.
+Total: 2.525260 ms (FindLiveObjects: 0.143858 ms CreateObjectMapping: 0.141592 ms MarkObjects: 1.789355 ms  DeleteObjects: 0.448565 ms)
+
+GSSA FindAsync Response:
+{
+  "values": [
+    {
+      "value": [
+        1,
+        "",
+        "17,130510,井田美彦\n10,90590,ルパン二世\n9,77640,Jackie\n7,67340,いかりや長介\n6,60830,sasaki\n6,60170,万年係長\n5,51190,netadi\n5,51050,ムッチョ\n4,46760,ポセイ丼\n4,46250,いだよしひこ\n5,45710,快活クラブ\n3,36420,シャア\n3,36220,ガンタンク\n3,36010,加藤鷹\n3,35370,Jeremmy\n3,34430,名無し\n3,34430,Marx\n3,34430,uphydn\n3,33670,藤峰子\n5,28160,東八郎\n2,25290,意識高い系の人人\n2,25290,エイドリアン\n2,23850,uphydnえお\n2,23130,金正恩\n1,12690,うううううううう\n1,12690,S.セガール\n1,12690,XYZ\n1,12690,平松しんじ\n1,12690,Idaten\n1,12240,本田真凛\n1,12150,Alanis\n1,9590,うえはらあつひろ\n1,5000,noname11\n2,4900,noname2\n3,4800,noname3\n4,4700,noname4\n5,4600,noname5\n6,4500,noname6\n7,4400,noname7\n8,4300,noname8\n9,4200,noname9\n10,4100,noname10\n11,4000,noname11\n12,3900,noname12\n13,3800,noname13\n14,3700,noname14\n15,3600,noname15\n16,3500,noname16\n17,3400,noname17\n18,3300,noname18\n",
+        1508388036252
+      ],
+      "$oi$": 2
+    }
+  ],
+  "keys": [
+    "rank",
+    "",
+    "name",
+    "createTime"
+  ]
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GSSA FindAsync Response:
+{
+  "values": [
+    {
+      "value": [
+        1,
+        "",
+        "17,130510,井田美彦\n10,90590,ルパン二世\n9,77640,Jackie\n7,67340,いかりや長介\n6,60830,sasaki\n6,60170,万年係長\n5,51190,netadi\n5,51050,ムッチョ\n4,46760,ポセイ丼\n4,46250,いだよしひこ\n5,45710,快活クラブ\n3,36420,シャア\n3,36220,ガンタンク\n3,36010,加藤鷹\n3,35370,Jeremmy\n3,34430,名無し\n3,34430,Marx\n3,34430,uphydn\n3,33670,藤峰子\n5,28160,東八郎\n2,25290,意識高い系の人人\n2,25290,エイドリアン\n2,23850,uphydnえお\n2,23130,金正恩\n1,12690,うううううううう\n1,12690,S.セガール\n1,12690,XYZ\n1,12690,平松しんじ\n1,12690,Idaten\n1,12240,本田真凛\n1,12150,Alanis\n1,9590,うえはらあつひろ\n1,5000,noname11\n2,4900,noname2\n3,4800,noname3\n4,4700,noname4\n5,4600,noname5\n6,4500,noname6\n7,4400,noname7\n8,4300,noname8\n9,4200,noname9\n10,4100,noname10\n11,4000,noname11\n12,3900,noname12\n13,3800,noname13\n14,3700,noname14\n15,3600,noname15\n16,3500,noname16\n17,3400,noname17\n18,3300,noname18\n",
+        1508388036252
+      ],
+      "$oi$": 2
+    }
+  ],
+  "keys": [
+    "rank",
+    "",
+    "name",
+    "createTime"
+  ]
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GSSA SaveAsync Response:
+{
+  "$oi$": "2"
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 33.044735 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 494.
+Total: 3.212079 ms (FindLiveObjects: 0.259020 ms CreateObjectMapping: 0.075138 ms MarkObjects: 2.769554 ms  DeleteObjects: 0.105722 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.733941 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 483.
+Total: 2.469000 ms (FindLiveObjects: 0.164247 ms CreateObjectMapping: 0.134418 ms MarkObjects: 1.841083 ms  DeleteObjects: 0.325097 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.277944 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 739.
+Total: 2.629850 ms (FindLiveObjects: 0.139327 ms CreateObjectMapping: 0.096660 ms MarkObjects: 2.322121 ms  DeleteObjects: 0.069474 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 25e4 -> priority: 1 
+  Thread -> id: 41d8 -> priority: 1 
